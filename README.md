@@ -1,4 +1,4 @@
-# wavy guy + cronjob - an adhd cleaning reminder
+# wavy guy + cronjob - an adhd friendly cleaning reminder
 ![wavy-guy](https://github.com/user-attachments/assets/1715e92e-76d4-4370-b5b7-1b52e308a994)
 
 A simple arduino MQTT client that triggers a relay switch on the wavy guy toy when a message is received via MQTT for a subscribed topic.
